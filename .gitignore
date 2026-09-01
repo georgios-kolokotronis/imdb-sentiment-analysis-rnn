@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/
+archive/
+*.py[cod]
+*.pth
+*.pt
